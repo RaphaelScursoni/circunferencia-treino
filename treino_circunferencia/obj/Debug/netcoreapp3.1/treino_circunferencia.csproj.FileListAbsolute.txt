@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\bin\Debug\netcoreapp3.1\treino_circunferencia.exe
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\bin\Debug\netcoreapp3.1\treino_circunferencia.deps.json
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\bin\Debug\netcoreapp3.1\treino_circunferencia.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\bin\Debug\netcoreapp3.1\treino_circunferencia.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\bin\Debug\netcoreapp3.1\treino_circunferencia.dll
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\bin\Debug\netcoreapp3.1\treino_circunferencia.pdb
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\obj\Debug\netcoreapp3.1\treino_circunferencia.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\obj\Debug\netcoreapp3.1\treino_circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\obj\Debug\netcoreapp3.1\treino_circunferencia.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\obj\Debug\netcoreapp3.1\treino_circunferencia.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\obj\Debug\netcoreapp3.1\treino_circunferencia.dll
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\obj\Debug\netcoreapp3.1\treino_circunferencia.pdb
+C:\Users\convencaoinfo10\source\repos\treino_circunferencia\treino_circunferencia\obj\Debug\netcoreapp3.1\treino_circunferencia.genruntimeconfig.cache
